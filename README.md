@@ -29,3 +29,7 @@ I evaluated multiple algorithms to find the best fit for this classification tas
 ## 🚀 Key Takeaways
 - **Data Scaling matters**: Normalizing the features significantly improved the convergence speed of the Logistic Regression model.
 - **Top Predictors**: Features like Number of Complaints and Outstanding Loans were critical indicators of potential churn.
+
+**- 🔍 Model Explainability**
+
+Used SHAP values to prove that "Number of Complaints" was the #1 driver of churn, shifting the business focus from "Pricing" to "Customer Service Quality."
